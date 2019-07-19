@@ -6,6 +6,7 @@ This is a simple python script that will send screenshots taken in Windows by Gr
 
 - Download and Install [Greenshot](https://getgreenshot.org/downloads/)
 - Download and Install  [Tesseract](https://github.com/UB-Mannheim/tesseract/wiki)
+- Edit *tess-ocr.bat* to include your full path to *pythonw.exe*, and to *tess-ocr.py*
 - Right click on greenshot icon $\to$ **Configure External Commands**
 - **New**:
   - **Name**: `Tesseract OCR` 
